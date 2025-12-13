@@ -1,1 +1,1 @@
-![](/mnt/d/Personal 📃/Personal/pixel_2.jpg)
+![christmas](./pixel_2.jpg)
