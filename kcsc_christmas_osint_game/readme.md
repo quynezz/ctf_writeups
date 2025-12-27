@@ -1,6 +1,6 @@
 ## KCSC CHRISTMAS OSINT GAME 2025 writeups
 
-vô tình lướt qua được cái challenge này trên fb của KMA club nên mình chơi thử luôn xem sao :>
+vô tình lướt qua được cái challenge này trên fb của KMA club nên mình chơi luôn xem sao
 
 ![Image_xin_chao](./img/hinh_anh_xin_chao.jpg)
 
@@ -142,5 +142,5 @@ VÀ GHÉP TẤT CẢ LẠI TA ĐƯỢC FLAGGGGGGG 👇👇👇
 KSCS{cHuC_C4c_b4n_614n6_51nh_Vu1_v3_l3u_l3U_m4y_b4n_kh0n6_c0_nyd1_ch0l_n03l_:3}
 ```
 
-Nếu các bạn thấy hay thì đừng ngần ngại để lại một star cho mình nhé :333 xin cảm ơn
+
 
