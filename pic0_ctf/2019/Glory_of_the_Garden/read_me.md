@@ -1,5 +1,7 @@
 **Description:** This file contains more than it seems. Get the flag from garden.jpg.
 
+**Topic:** Forensic
+
 First we need to download the image from the problem first 
 
 ```bash
@@ -11,9 +13,27 @@ It seem like a normal image like usual :)
 
 using `strings` to extract the printable character of an image, and at the end of the sentences i saw a flag
 
+`
+...
+={~5
+h--@3
+cZi-
+M(.I
+]hWP&
+jc#k
+=7g&
+mjx/
+s\]|."Ue
+\qZf
+Here is a flag: picoCTF{more_than_m33ts_the_3y395e12915}
+`
+
+A little bit of bash magic 
+
 ```bash
 strings garden.jpg | tail -n 1 | cut -d ":" -f2
 ```
+
 And we have the flag: 
 
 **Flag:** `picoCTF{more_than_m33ts_the_3y395e12915}`
