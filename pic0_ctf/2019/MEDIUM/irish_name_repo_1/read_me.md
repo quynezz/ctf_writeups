@@ -2,7 +2,7 @@
 
 **Topic:** Web Exploitation 
 
-It about in-band SQL Injection
+It about in-band SQL Injection.
 
 ```bash
 ' OR '1'='1' --
