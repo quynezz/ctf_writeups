@@ -16,7 +16,7 @@ unzip challenge.zip
 ```
 And we have the `flag.png`
 
-Open that image up with 
+Open that image up with `eog`
 
 ```bash
 eog flag.png
