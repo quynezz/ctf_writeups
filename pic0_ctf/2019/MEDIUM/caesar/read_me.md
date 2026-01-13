@@ -1,0 +1,3 @@
+![](./flag.png)
+
+picoCTF{crossingtherubiconrgqcnbyq}
