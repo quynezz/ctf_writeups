@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Jan 14 10:58:17 2026
+Invocation: foremost usb.image 
+Output directory: /home/quy3n/Quyen/hack/CTF/root_me/Deleted_file/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: usb.image
+Start: Wed Jan 14 10:58:17 2026
+Length: 31 MB (32505856 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000168.png 	     240 KB 	      86016 	  (400 x 300)
+Finish: Wed Jan 14 10:58:17 2026
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Jan 14 10:58:17 2026
