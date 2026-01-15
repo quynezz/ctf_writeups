@@ -1,0 +1,4 @@
+FLAGPART: picoCTF{us3_
+FLAGPART: y0urlinux_
+FLAGPART: sk1lls_
+FLAGPART: cedfa5fb}
