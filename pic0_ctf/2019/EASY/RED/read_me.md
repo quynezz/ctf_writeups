@@ -58,7 +58,7 @@ b1,abgr,msb,xy      ..
 Decode the repeated lab and we have
 
 ```bash
-echo "cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==" | base64 --decode
+echo "cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==" | base64 -d
 ```
 
 And we have the flag:
