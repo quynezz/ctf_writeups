@@ -2,7 +2,7 @@
 
 **Topic:** Web Exploitation
 
-First, we download the `red.png` file
+First, we download the `red.png` file by `wget`
 
 ```bash
 wget https://challenge-files.picoctf.net/c_verbal_sleep/831307718b34193b288dde31e557484876fb84978b5818e2627e453a54aa9ba6/red.png
